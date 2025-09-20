@@ -1,5 +1,6 @@
 # coffee-shop-sales-dashboard
 This dashboard is for presenting my insights to the regional manager of the coffee chain with three different store locations.
+
 COFFEE SHOP SALES DAHSBOARD  
 <img width="405" height="303" alt="image" src="https://github.com/user-attachments/assets/e14ade82-fa92-487d-a930-88a27093f186" />
 
